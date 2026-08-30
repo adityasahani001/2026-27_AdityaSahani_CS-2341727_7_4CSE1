@@ -1,54 +1,84 @@
-# Summer Internship 2026–27
+<div align="center">
 
-## Overview
-This repository contains the official submission documents for my **Summer Internship (Academic Year 2026–27)** completed as part of the **Bachelor of Technology in Computer Science & Engineering (Artificial Intelligence & Machine Learning)** program at **IILM University, Greater Noida**.
+# 🎓 Summer Internship Submission
+### Academic Year 2026–27
 
-The internship was successfully completed at **Bonhoeffer Machines Pvt. Ltd.**, where I worked on AI-driven applications, backend development, and automation solutions while gaining practical industry experience.
+**Bachelor of Technology — Computer Science & Engineering (AI & ML)**
+**IILM University, Greater Noida**
+
+</div>
 
 ---
 
-## Student Information
+## 📌 Overview
+
+This repository serves as the official submission of documents for the **Summer Internship (AY 2026–27)**, completed as part of the curriculum requirements of the **B.Tech CSE (Artificial Intelligence & Machine Learning)** program at **IILM University, Greater Noida**.
+
+The internship was undertaken at **Bonhoeffer Machines Pvt. Ltd.**, where practical exposure was gained in AI-driven application development, backend engineering, and automation of business workflows.
+
+---
+
+## 👤 Student Information
 
 | Field | Details |
-|-------|---------|
-| **Student Name** | Aditya Sahani |
+|---|---|
+| **Name** | Aditya Sahani |
 | **Enrollment Number** | CS-2341727 |
-| **Program** | B.Tech CSE (AI/ML) |
-| **Semester** | 7 |
+| **Program** | B.Tech CSE (AI & ML) |
+| **Semester** | 7th |
 | **Section** | 4CSE1 |
 | **Academic Session** | 2026–27 |
 | **University** | IILM University, Greater Noida |
 | **Organization** | Bonhoeffer Machines Pvt. Ltd. |
+| **Role** | AI & ML Intern |
+| **Duration** | 21 May 2026 – 21 August 2026 (3 Months) |
 
 ---
 
-## Repository Contents
+## 📂 Repository Contents
 
-- 📄 **Internship Report (PDF)**
-- 📊 **Internship Presentation (PDF)**
-- 🏅 **Internship Completion Certificate (PDF)**
-
----
-
-## Internship Summary
-
-During the internship, I contributed to the development and enhancement of AI-powered business automation systems. My work involved backend development, AI agent workflows, dashboard improvements, automation, debugging, API integration, and testing of production-ready features.
-
-The internship provided valuable exposure to real-world software development practices, collaborative engineering workflows, and the deployment of AI solutions for business applications.
+| Document | Format | Description | Link |
+|---|---|---|---|
+| 📄 Internship Report | PDF | Detailed report on internship work and learnings | [View](./Aditya_Sahani_Internship_Report.pdf) |
+| 📊 Internship Presentation | PDF | Summary presentation of the internship project | [View](./Aditya_Sahani_Internship_Presentation.pdf) |
+| 🏅 Completion Certificate | PDF | Official certificate issued by the organization | [View](./Aditya_Sahani_Internship_Certificate.pdf) |
 
 ---
 
-## Purpose
+## 💼 Internship Summary
 
-This repository has been created as part of the internship submission requirements of **IILM University** for the **Summer Internship (AY 2026–27)**.
+During the internship, I contributed to the design and enhancement of **AI-powered business automation systems**. Key areas of contribution included:
+
+- Worked with **crewAI** for AI agent development
+- Worked on servers for lead generation and communications
+- Backend development and API integration
+- Design and refinement of AI agent workflows
+- Dashboard improvements and feature enhancements
+- Debugging, testing, and deployment of production-ready features
+- Automation of recurring business processes
+
+This experience provided practical exposure to real-world software development practices, collaborative engineering workflows, and the deployment of AI solutions in a business environment.
 
 ---
 
-## Author
+## 🎯 Purpose
 
-**Aditya Sahani**  
-**4CSE1**
-B.Tech Computer Science & Engineering (AI/ML)  
+This repository has been created solely to fulfill the **Summer Internship (AY 2026–27) submission requirements** of **IILM University**, as communicated by the Computer Science & Engineering Department.
+
+---
+
+## 👨‍💻 Author
+
+**Aditya Sahani**
+B.Tech CSE (AI & ML) — Semester 7 — Section 4CSE1
 IILM University, Greater Noida
 
-GitHub: https://github.com/adityasahani001
+🔗 GitHub: [github.com/adityasahani001](https://github.com/adityasahani001)
+
+---
+
+<div align="center">
+
+*This repository is maintained solely for academic submission purposes.*
+
+</div>
