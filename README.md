@@ -70,10 +70,14 @@ This repository has been created solely to fulfill the **Summer Internship (AY 2
 ## 👨‍💻 Author
 
 **Aditya Sahani**
-B.Tech CSE (AI & ML) — Semester 7 — Section 4CSE1
-IILM University, Greater Noida
+
+B.Tech CSE (AI & ML) — Semester 7 — Section 4CSE1 — CS-2341727
+
+🏫 IILM University, Greater Noida
 
 🔗 GitHub: [github.com/adityasahani001](https://github.com/adityasahani001)
+
+🔗 Linkedin : [https://www.linkedin.com/in/aditya-sahani-0955b02ab/](https://www.linkedin.com/in/aditya-sahani-0955b02ab/)
 
 ---
 
