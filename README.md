@@ -40,7 +40,7 @@ The internship was undertaken at **Bonhoeffer Machines Pvt. Ltd.**, where practi
 | Document | Format | Description | Link |
 |---|---|---|---|
 | 📄 Internship Report | PDF | Detailed report on internship work and learnings | [View](./Aditya_Sahani_Internship_Report.pdf) |
-| 📊 Internship Presentation | PDF | Summary presentation of the internship project | [View](./Aditya_Sahani_Internship_Presentation.pdf) |
+| 📊 Internship Presentation | PDF | Summary presentation of the internship project | [View](./Aditya_Sahani_Internship_Presentation.ppt) |
 | 🏅 Completion Certificate | PDF | Official certificate issued by the organization | [View](./Aditya_Sahani_Internship_Certificate.pdf) |
 
 ---
